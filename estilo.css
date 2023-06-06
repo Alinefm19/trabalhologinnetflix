@@ -167,3 +167,9 @@ body.bg-filmes{
 .terms a:hover{
     text-decoration: underline;
 }
+
+#login_body {
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
